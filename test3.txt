@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hacked
-=======
-yet to hacked
->>>>>>> b2
+test3 file
