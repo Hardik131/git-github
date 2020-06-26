@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hacked
+=======
+yet to hacked
+>>>>>>> b2
